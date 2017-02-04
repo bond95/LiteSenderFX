@@ -1,0 +1,7 @@
+test_dir/
+out/
+css/
+images/
+settings.dat
+private-key.dat
+.idea/
